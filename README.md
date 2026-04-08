@@ -72,7 +72,7 @@ netflix-excel-dashboard/
 ---
 
 ## 🔗 GitHub Repository
-https://github.com/yourusername/netflix-excel-dashboard
+https://github.com/Afran-dataviz/netflix-excel-dashboard
 
 ---
 
